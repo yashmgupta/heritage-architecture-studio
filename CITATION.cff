@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use the Ancient Architecture Engineering Studio in research or teaching, please cite the software."
+type: software
+title: "Ancient Architecture Engineering Studio"
+authors:
+  - family-names: Gupta
+    given-names: Yash Munnalal
+license: MIT
+abstract: "An interactive single-HTML studio for ancient and historic architectural form studies and custom browser-based 3D modeling."

@@ -1,0 +1,12 @@
+{
+  "name": "ancient-architecture-engineering-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Single-file interactive browser architectural form study",
+  "scripts": {
+    "test": "node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
